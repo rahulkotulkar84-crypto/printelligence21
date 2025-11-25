@@ -1,0 +1,1 @@
+import {NextResponse} from 'next/server'; export async function POST(req){const{product,quantity}=await req.json(); return NextResponse.json({ok:true});}

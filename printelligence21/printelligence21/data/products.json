@@ -1,0 +1,30 @@
+[
+  {
+    "id": "card-luxe-01",
+    "name": "Luxe Business Card - Foil Edge",
+    "short": "350gsm, foil edge, soft-touch finish",
+    "price": 49,
+    "image": "/assets/product-card-luxe.jpg"
+  },
+  {
+    "id": "invite-letterpress-01",
+    "name": "Letterpress Invite - Folded",
+    "short": "Cotton stock, blind deboss",
+    "price": 129,
+    "image": "/assets/product-invite.jpg"
+  },
+  {
+    "id": "box-premium-01",
+    "name": "Premium Gift Box",
+    "short": "Rigid box, embossed logo",
+    "price": 249,
+    "image": "/assets/product-box.jpg"
+  },
+  {
+    "id": "sample-kit-01",
+    "name": "Sample Kit - Luxe Materials",
+    "short": "20 curated swatches + booklet",
+    "price": 29,
+    "image": "/assets/product-samplekit.jpg"
+  }
+]

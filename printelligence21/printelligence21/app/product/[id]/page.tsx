@@ -1,0 +1,1 @@
+export default function Prod(){return <div>Product Page</div>}

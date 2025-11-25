@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Printelligence',description:'Luxury Printing'}; export default function Root({children}){return(<html><body>{children}</body></html>)}
